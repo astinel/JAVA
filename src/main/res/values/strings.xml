@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">유원대학교</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="돌아가기">돌아가기</string>
+    <string name="화">화</string>
+    <string name="수">수</string>
+    <string name="목">목</string>
+    <string name="금">금</string>
+    <string name="_3">3</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="_4">4</string>
+    <string name="월">월</string>
+    <string name="title_activity_wepview">wepview</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="string">string/_공지</string>
+    <string name="title_activity_timetable2">Timetable2</string>
+</resources>
