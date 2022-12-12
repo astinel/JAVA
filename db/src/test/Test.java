@@ -18,12 +18,5 @@ public class Test {
 		
 		parameter.add("1", "2");
 		System.out.println(parameter.get());
-		
-		String[] s1 = {"강","경","운"};		
-		String s2 = s1[0];
-		
-		s1[0] += 1;
-		System.out.println(s1[0]);
-		System.out.println(s2);
 	}
 }
